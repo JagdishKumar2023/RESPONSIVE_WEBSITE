@@ -1,0 +1,63 @@
+/* html {
+  font-size: 1em;
+} */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* @media screen and (max-width: 600px), screen 
+ and (orientation: landscape) {
+  body {
+    color: red;
+  }
+}  */
+
+html,
+body {
+  height: 100%;
+  width: 100%;
+}
+
+/* #box {
+  height: 500px;
+  width: 500px;
+  background: crimson;
+}
+
+#inner {
+  height: 50wh;
+  width: 40vh;
+  background: royalblue;
+  display: flex;
+} */
+/* 
+.h2 {
+  font-size: 10vmin;
+} */
+
+/* #parent {
+  background-color: #dadada;
+  width: 40%;
+  font-size: 40px;
+}
+
+h1 {
+  font-size: 2rem;
+}
+
+h2 {
+  font-size: 1rem;
+}
+
+h3 {
+  font-size: 1.5rem;
+} */
+
+.box {
+  height: 300px;
+  width: 300px;
+  background-color: royalblue;
+}
