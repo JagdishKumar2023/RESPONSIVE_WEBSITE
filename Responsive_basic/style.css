@@ -106,6 +106,14 @@ h3 {
   align-items: center;
 }
 
+.nav h4 {
+  cursor: pointer;
+}
+
+.nav h2 {
+  cursor: pointer;
+}
+
 .nav i {
   font-size: 1.2w;
   font-weight: 400;
